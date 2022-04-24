@@ -19,17 +19,14 @@ export default function Navigation({collections}) {
         ))}
         <li>
           <Link
-            to="/pages/aboutus"
+            to="/pages/more_hydrogen"
             className="block p-4 hover:opacity-80"
           >
-            私たちについて
+            hydrogenについて!!
           </Link>
         </li>
         <li>
-          <Link
-            to="/contact"
-            className="block p-4 hover:opacity-80"
-          >
+          <Link to="/contact" className="block p-4 hover:opacity-80">
             お問い合わせ
           </Link>
         </li>

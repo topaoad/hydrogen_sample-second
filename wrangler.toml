@@ -1,4 +1,4 @@
-name = "sample-hydrogen"
+name = "hydrogen-sample"
 type = "javascript"
 account_id = ""
 workers_dev = true
